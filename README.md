@@ -4,6 +4,7 @@ Landing page desarrollada como reto de maquetación (CodeOp). Este repositorio e
 
 ## Demo
 https://dmlean.github.io/madelyn-torff-landing/
+![Demo screenshot](docs/captura_de_pantalla_Madelyn_Torff.png)
 
 ## ¿Qué aporta?
 - Maquetación responsive (desktop/mobile).
@@ -29,6 +30,3 @@ npm run build (o el script equivalente)
 
 ## Créditos
 - Diseño/brief: challenge de CodeOp (Madelyn Torff landing).
-
-![Demo screenshot](docs/captura_de_pantalla_Madelyn_Torff.png)
-

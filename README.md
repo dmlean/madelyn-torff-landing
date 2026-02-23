@@ -28,3 +28,6 @@ pm run build (o el script equivalente)
 
 ## Créditos
 - Diseño/brief: challenge de CodeOp (Madelyn Torff landing)
+
+![Demo screenshot](docs/captura_de_pantalla_Madelyn_Torff.png)
+
